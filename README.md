@@ -29,6 +29,8 @@ Welcome to Tandem Trivia code challenge! This application was built using JavaSc
 
 The code brings in a given JSON file, randomly sets 10 questions in the question bank and then goes through each question giving the player the opportunity to choose an answer. The app will then reveal if it was correct or not and show the right answer if it was incorrect. The player can then progress to the next question and will receive a final score after all 10 questions have been attempted.
 
+This application also uses Jest and Enzyme as its testing enviroment to ensure quality.
+
 Hope you enjoyed playing and reading through my code!
 
 ## Parking Lot
