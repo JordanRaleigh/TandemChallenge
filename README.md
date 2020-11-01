@@ -3,8 +3,11 @@
 Welcome to Tandem Trivia! To start playing, please follow the steps below.
 
 \$ git clone https://github.com/JordanRaleigh/TandemChallenge.git
+
 \$ cd TandemChallenge
+
 \$ npm install
+
 \$ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
