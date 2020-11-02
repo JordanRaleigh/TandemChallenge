@@ -6,7 +6,7 @@ import Adapter from 'enzyme-adapter-react-16'
 const adapter = new Adapter()
 enzyme.configure({adapter})
 
-describe('First React component test with Enzyme', () => {
+describe('Quiz component render test', () => {
   it('renders without crashing', () => {
      shallow(<Quiz />);
    });

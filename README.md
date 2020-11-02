@@ -42,6 +42,7 @@ Organization
 - Split my Quiz.js component into smaller functional and dumb components to improve organization and seperate out concerns.
 
 Testing
+-Add Mocha and Chai framworks to the application and build more specific tests as I'm more experienced with these libraries.
 
 - Build out more unit testing for all functions.
 - Build more integration testing on each broken out component.
